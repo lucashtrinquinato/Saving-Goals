@@ -7,4 +7,4 @@ To install the Playwright framework:
 >npx playwright install
 
 And finally, use the command below to run our tests:
-> npm test
+> npm run test
