@@ -1,0 +1,148 @@
+<testsuites>
+    <testsuite name="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" tests="6" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="1.673">
+        <testcase name="Beforeundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="1.112">
+        </testcase>
+        <testcase name="When I fill the total amount field with 100.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.172">
+        </testcase>
+        <testcase name="And I select the reach goal field with 1 months ahead" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.01">
+        </testcase>
+        <testcase name="Then the monthly amount should be updated to $100.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.128">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.25">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" tests="6" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="1.9439999999999995">
+        <testcase name="Beforeundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="1.257">
+        </testcase>
+        <testcase name="When I fill the total amount field with 1000.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.182">
+        </testcase>
+        <testcase name="And I select the reach goal field with 2 months ahead" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.144">
+        </testcase>
+        <testcase name="Then the monthly amount should be updated to $500.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.113">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.247">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" tests="6" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="2.083">
+        <testcase name="Beforeundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="1.241">
+        </testcase>
+        <testcase name="When I fill the total amount field with 10,000.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.183">
+        </testcase>
+        <testcase name="And I select the reach goal field with 3 months ahead" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.287">
+        </testcase>
+        <testcase name="Then the monthly amount should be updated to $3,333.33" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.115">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.256">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" tests="6" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="1.425">
+        <testcase name="Beforeundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.593">
+        </testcase>
+        <testcase name="When I fill the total amount field with 100,000.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.122">
+        </testcase>
+        <testcase name="And I select the reach goal field with 4 months ahead" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.41">
+        </testcase>
+        <testcase name="Then the monthly amount should be updated to $25,000.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.11">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.189">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" tests="6" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="1.3160000000000003">
+        <testcase name="Beforeundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.319">
+        </testcase>
+        <testcase name="When I fill the total amount field with 1,000,000.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.124">
+        </testcase>
+        <testcase name="And I select the reach goal field with 5 months ahead" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.545">
+        </testcase>
+        <testcase name="Then the monthly amount should be updated to $200,000.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.108">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.219">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" tests="6" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="1.602">
+        <testcase name="Beforeundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.471">
+        </testcase>
+        <testcase name="When I fill the total amount field with 10,000,000.00" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.121">
+        </testcase>
+        <testcase name="And I select the reach goal field with 6 months ahead" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.7">
+        </testcase>
+        <testcase name="Then the monthly amount should be updated to $1,666,666.67" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.106">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;&quot;buy-a-house&quot;-saving-goal-successfully" time="0.203">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;monthly-amount-details" tests="6" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="1.144">
+        <testcase name="Beforeundefined" classname="saving-goals;monthly-amount-details" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;monthly-amount-details" time="0.484">
+        </testcase>
+        <testcase name="When I fill the total amount field with 100.00" classname="saving-goals;monthly-amount-details" time="0.12">
+        </testcase>
+        <testcase name="And I select the reach goal field with 2 months ahead" classname="saving-goals;monthly-amount-details" time="0.126">
+        </testcase>
+        <testcase name="Then the monthly amount details should be 100.00 in 2 months" classname="saving-goals;monthly-amount-details" time="0.214">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;monthly-amount-details" time="0.199">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;increase-the-date-input" tests="5" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="0.762">
+        <testcase name="Beforeundefined" classname="saving-goals;increase-the-date-input" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;increase-the-date-input" time="0.316">
+        </testcase>
+        <testcase name="When I increase the reach goal field using the arrow button" classname="saving-goals;increase-the-date-input" time="0.149">
+        </testcase>
+        <testcase name="Then the month should be increased" classname="saving-goals;increase-the-date-input" time="0.107">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;increase-the-date-input" time="0.189">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;increase-the-date-input" tests="5" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="1.026">
+        <testcase name="Beforeundefined" classname="saving-goals;increase-the-date-input" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;increase-the-date-input" time="0.458">
+        </testcase>
+        <testcase name="When I increase the reach goal field using the keyboard" classname="saving-goals;increase-the-date-input" time="0.261">
+        </testcase>
+        <testcase name="Then the month should be increased" classname="saving-goals;increase-the-date-input" time="0.109">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;increase-the-date-input" time="0.197">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;decrease-the-date-input" tests="5" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="0.948">
+        <testcase name="Beforeundefined" classname="saving-goals;decrease-the-date-input" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;decrease-the-date-input" time="0.469">
+        </testcase>
+        <testcase name="When I decrease the reach goal field using the arrow button" classname="saving-goals;decrease-the-date-input" time="0.18">
+        </testcase>
+        <testcase name="Then the month should be decreased" classname="saving-goals;decrease-the-date-input" time="0.108">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;decrease-the-date-input" time="0.19">
+        </testcase>
+    </testsuite>
+    <testsuite name="saving-goals;decrease-the-date-input" tests="5" failures="0" errors="0" skipped="0" timestamp="Wed, 08 Mar 2023 17:07:30 GMT" time="0.822">
+        <testcase name="Beforeundefined" classname="saving-goals;decrease-the-date-input" time="0.001">
+        </testcase>
+        <testcase name="Given I am on the Buy a house saving goal screen" classname="saving-goals;decrease-the-date-input" time="0.252">
+        </testcase>
+        <testcase name="When I decrease the reach goal field using the keyboard" classname="saving-goals;decrease-the-date-input" time="0.257">
+        </testcase>
+        <testcase name="Then the month should be decreased" classname="saving-goals;decrease-the-date-input" time="0.108">
+        </testcase>
+        <testcase name="Afterundefined" classname="saving-goals;decrease-the-date-input" time="0.204">
+        </testcase>
+    </testsuite>
+</testsuites>

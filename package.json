@@ -1,0 +1,40 @@
+{
+    "name": "saving.goals.quality.e2e",
+    "version": "1.0.0",
+    "description": "Playwright TypeScript",
+    "main": "index.js",
+    "scripts": {
+        "report": "open ./report/cucumber-html-report.html",
+        "test": "cross-env NODE_ENV=environment ./node_modules/.bin/cucumber-js --tags '@regression' --publish-quiet --parallel 1 -f json:report/report.json && node report.js && cat report/report.json | npx cucumber-junit > report/junitreport.xml"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.17.2",
+        "@types/chai": "^4.1.7",
+        "@types/cucumber": "^4.0.5",
+        "@types/fs-extra": "^9.0.13",
+        "allure-commandline": "^2.17.2",
+        "chai": "^4.2.0",
+        "copyfiles": "^2.4.1",
+        "cross-env": "^7.0.3",
+        "cucumber-pretty": "^1.5.0",
+        "cucumber-tsflow": "^3.2.0",
+        "cucumberjs-junitxml": "^1.0.0",
+        "experimental-allure-playwright": "^0.0.3",
+        "ts-node": "^8.0.3",
+        "typescript": "^3.3.3333"
+    },
+    "dependencies": {
+        "@cucumber/cucumber": "^7.3.2",
+        "@cucumber/pretty-formatter": "^1.0.0-alpha.1",
+        "cat": "^0.2.0",
+        "concurrently": "^7.0.0",
+        "config": "^3.3.7",
+        "cucumber-html-reporter": "^5.5.0",
+        "dotenv": "^16.0.0",
+        "eslint": "^8.8.0",
+        "open": "^8.4.0"
+    }
+}
